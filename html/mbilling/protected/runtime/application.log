@@ -1,0 +1,4 @@
+2024/11/15 23:04:46 [error] [system.db.CDbCommand] Error in preparing SQL: DELETE FROM YiiCache WHERE expire>0 AND expire<1731711886
+2024/11/15 23:04:46 [error] [system.db.CDbCommand] CDbCommand::execute() failed: CDbCommand failed to prepare the SQL statement: SQLSTATE[HY000]: General error: 1 no such table: YiiCache. The SQL statement executed was: DELETE FROM YiiCache WHERE expire>0 AND expire<1731711886.
+2024/11/16 00:07:45 [error] [application] Username and password combination is invalid - User: alphatech IP: 179.124.31.115
+2024/11/16 00:07:48 [error] [application] Username and password combination is invalid - User: root IP: 179.124.31.115
